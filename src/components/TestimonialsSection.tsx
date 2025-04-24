@@ -41,7 +41,7 @@ const testimonials = [
     name: "Yusuf Hassan",
     review:
       "The AI solutions from Devmate have been instrumental in our digital transformation journey. Their AI agents have automated 80% of our routine tasks, allowing our team to focus on innovation.",
-    country: "Turkey",
+    country: "Oman",
     rating: 5,
   },
 ];
