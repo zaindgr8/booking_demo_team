@@ -30,7 +30,7 @@ const BookMeetingSection = () => {
           <div className="flex items-center justify-center mb-6">
             <Calendar className="w-8 h-8 mr-2" />
             <h2 className="text-4xl md:text-5xl font-bold">
-              Talk Tech. Talk Growth. Talk to the CEO.
+              Talk Tech. Talk Growth. Talk to the Experts.
             </h2>
           </div>
           <p className="text-xl md:text-2xl text-gray-400 mt-4">
