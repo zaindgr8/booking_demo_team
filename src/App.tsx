@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import AICallSection from "./components/AICallSection";
 import BookMeetingSection from "./components/BookMeetingSection";
 import TestimonialsSection from "./components/TestimonialsSection";
-import CEOMessageSection from "./components/CEOMessageSection";
+import AboutUsSection from "./components/AboutUsSection";
 import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 
@@ -32,7 +32,7 @@ const App = () => (
                   <AICallSection />
                   <BookMeetingSection />
                   <TestimonialsSection />
-                  <CEOMessageSection />
+                  <AboutUsSection />
                 </>
               }
             />
